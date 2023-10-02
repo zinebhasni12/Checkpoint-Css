@@ -1,0 +1,42 @@
+h1{
+    float: inline-end;
+    color: purple;
+    text-align: center;
+    background-color:palevioletred;
+    text-decoration:darkblue;
+    font-size:xx-large;
+}
+
+nav {
+    background-color: yellowgreen;
+}
+
+
+li a {
+        display: block;
+        color: yellowgreen;
+        text-align: justify;
+        text-decoration:darkblue;
+        float: left;
+}
+
+        
+        p{
+            float: inline-end;
+            color:black;
+            text-align: justify;
+            text-decoration: double;
+            padding: auto;
+            font-family: 'Times New Roman', Times, serif;
+            font:1em sans-serif;
+            font-size: large;
+            background-color: wheat;
+        }
+    
+img {
+    width: 550px;
+    width: 50%;
+    margin-left: auto;
+    margin-right:auto;
+
+}
